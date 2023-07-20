@@ -11,7 +11,7 @@ interface CharacterAC {
 }
 
 export default class OseDataModelCharacterAC implements CharacterAC {
-  static baseAscending = 10;
+  static baseAscending = 0;
 
   static baseDescending = 9;
 
